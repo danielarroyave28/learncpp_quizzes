@@ -12,4 +12,6 @@ add_executable(learncpp_quizzes src/main.cpp
         include/quiz4.h
         include/quiz_registry.h
         src/quiz5.cpp
-        include/quiz5.h)
+        include/quiz5.h
+        src/quiz6.cpp
+        include/quiz6.h)
